@@ -1,6 +1,10 @@
 # Claude Code、はじめてみよう。 — AI入門オフ会 登壇資料
 
-> 📊 **スライドを見る →** [GitHub Pages で閲覧](https://yusuke4386752.github.io/ai-intro-workshop/)
+> 📊 **スライドを見る →** [GitHub Pages で閲覧](https://yusuke4386752.github.io/IT-workshop/)
+
+---
+
+![スライド表紙](slide_thumbnail.png)
 
 ---
 
